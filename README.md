@@ -1,2 +1,3 @@
 # go-hello
-Hello, World in Go language.
+
+The traditional "Hello, World!" program, in Go language.
